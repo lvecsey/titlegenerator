@@ -6,9 +6,8 @@ An example URL request would look like this:
 
    https://example.com/titlegenerator?fontsize=144&title=Sample+Text
 
-Before you can compile:
+Install these first:
 
-  sudo apt-get install libfcgi-dev
-  sudo apt-get install spawn-fcgi
+  sudo apt-get install libfcgi-dev spawn-fcgi imagemagick
 
 ![Image of output](titlegenerator.png)
